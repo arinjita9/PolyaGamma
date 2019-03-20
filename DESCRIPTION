@@ -3,8 +3,8 @@ Type: Package
 Title: Bayesian Logistic Regression with Polya-Gamma latent variables
 Version: 0.1
 Date: 2015-10-19
-Author: Kaspar Märtens and Sherman Ip
-Maintainer: Kaspar Märtens <kaspar.martens@gmail.com>
+Author: Kaspar Martens and Sherman Ip
+Maintainer: Kaspar Martens <kaspar.martens@gmail.com>
 Description: Obtain an MCMC sample from the posterior distribution of parameter beta. To achieve this via Gibbs sampling, latent variables from the Polya-Gamma distribution are introduced.
 License: What license is it under?
 LazyData: TRUE
